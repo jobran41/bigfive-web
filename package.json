@@ -6,29 +6,13 @@
   "private": true,
   "author": {
     "name": "Jonas Enge",
-    "email": "jonas.enge@gmail.com",
-    "url": "https://github.com/maccyber"
+    "email": "jobran41@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Geir Gåsodden",
-      "email": "geir.gasodden@pythonia.no",
-      "url": "https://github.com/zrrrzzt"
-    }
-  ],
   "keywords": [
     "bigfive",
     "personality",
     "IPIP"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/maccyber/bigfive-web.git"
-  },
-  "bugs": {
-    "url": "https://github.com/maccyber/bigfive-web/issues"
-  },
-  "homepage": "https://github.com/maccyber/bigfive-web",
   "devDependencies": {
     "ava": "0.18.2",
     "coveralls": "2.12.0",
